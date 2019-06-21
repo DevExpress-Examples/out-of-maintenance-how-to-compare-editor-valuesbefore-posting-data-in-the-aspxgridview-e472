@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to compare editor values before posting data in the ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e472/)**
+<!-- run online end -->
 
 
 <p><br />This can be done using the editor's client-side Validation event. You should handle the CellEditorInitialize event of the ASPxGridView and write a java script event handler in your server code. Please refer to the attached project.</p>
